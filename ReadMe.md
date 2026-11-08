@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a second-year engineering student diving headfirst into the world of tech.<br>Right now, I’m focused on building solid skills in Java, Python, and SQL — not just learning theory, but actually understanding how things work.<br><br>I’m currently learning C and pushing myself to get better every day through practice and small projects.<br><br>I’m actively looking for an internship where I can learn fast, contribute, and gain real-world experience.<br><br>I’m at the beginning of my journey, but I take that seriously — I’m curious, consistent, and not afraid to start from zero and figure things out.
+I’m a third-year big data & AI engineering student diving headfirst into the world of tech.<br>Right now I’m focused on building solid skills in C, Python, and SQL — not just learning theory, but actually understanding how things work.<br><br>I’m currently learning C and pushing myself to get better every day through practice and small projects.<br><br>I’m actively looking for an internship where I can learn fast, contribute, and gain real-world experience.<br><br>I’m at the beginning of my journey, but I take that seriously — I’m curious, consistent, and not afraid to start from zero and figure things out.
 
 
 ## 🌐 Socials:
